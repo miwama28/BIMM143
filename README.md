@@ -5,5 +5,4 @@ This is my classwork from [BIMM 143 Spring 2019] (https://miwama28.github.io/BIM
 class 05: [R basics, data structures, and data input]
 (link)
 
-class 12: [test]
-(https://github.com/miwama28/BIMM143/blob/master/class12.md)
+class 12: [test] (https://github.com/miwama28/BIMM143/blob/master/class12.md)
