@@ -1,5 +1,5 @@
 # BIMM 143 Spring 2019
-###Marina I.
+### Marina I.
 
 This is my classwork from [BIMM 143 Spring 2019](https://miwama28.github.io/BIMM143/) at UCSD.
 
